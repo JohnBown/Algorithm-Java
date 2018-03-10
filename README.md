@@ -36,7 +36,7 @@
     - 广度优先搜索（poj3278，poj1426，poj3126，poj3087，poj3414）
     - 简单搜索技巧和减枝（poj2531，poj1416，poj2676，poj1129）
 5. 动态规划：
-    - 背包问题（poj1837，poj1276）
+    - 背包问题（[poj1837](src/EarlyStage/DynamicProgramming/poj1837.java)，poj1276）
     - 型如下表的简单DP（可参考lrj的书page149）：
       （poj3267，poj1836，poj1260，poj2533）
       （poj3176，poj1080，poj1159）
