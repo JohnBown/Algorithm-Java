@@ -3,7 +3,7 @@ package EarlyStage.BasicAlgs.Enum;
 import java.util.Scanner;
 
 /**
- * TODO: 这个代码有TLE，我将状态进行位字节压缩，但还是AC不了
+ * TODO: TLE，我将状态进行位字节压缩，但还是AC不了
  */
 
 public class poj2965 {
@@ -57,7 +57,7 @@ public class poj2965 {
             }
 
             // 判断开关全开
-            if((count<=num) && (refrigTemp==0xffff)){
+            if(refrigTemp==0xffff){
                 num = count;
                 System.arraycopy(numArrTemp, 0, numArr, 0, num);
             }
