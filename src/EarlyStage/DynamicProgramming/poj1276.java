@@ -3,9 +3,8 @@ import java.io.*;
 import java.util.*;
 /**
  * @see <a herf="http://blog.csdn.net/deng_hui_long/article/details/10803617"/>
- * todo 今天抽了两个小时看这个多重背包，有点没太看懂
- * todo 标记一下，等做到贪心算法的完全背包部分在回头整
- * todo 理：）先commit
+ * todo 今天抽了两个小时看多重背包，有点没太看懂，先标记
+ * todo 下，等做到贪心算法的完全背包部分在回头整理：）
  */
 public class poj1276 {
     int Case,n;
