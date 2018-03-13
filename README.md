@@ -24,7 +24,7 @@
     - 二分图的最大匹配（匈牙利算法）（poj3041，poj3020）
     -最大流的增广路算法（KM算法）（poj1459，poj3436）
 3. 数据结构：
-    - 串（poj1035，poj3080，poj1936）
+    - 串（[poj1035](src/EarlyStage/DataStructure/poj1035.java)，poj3080，poj1936）
     - 排序（快排，归并排/与逆序数有关，堆排）（poj2388，poj2299）
     - 简单并查集的应用
     - 哈希表和二分查找等高效查找法（数的Hash，串的Hash）（poj3349，poj3274，poj2151，poj1840，poj2002，poj2503）
