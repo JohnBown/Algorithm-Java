@@ -30,11 +30,11 @@ public class poj3080 {
                 for(int j=i;j<s[0].length();j++){
                     String te = s[0].substring(i,j+1);
                     if(ok(te,n,s)){
-                        // 存储较长substring
+                        // 存入较长substring
                         if(ans.length()<te.length()){
                             ans=te;
                         }
-                        // 存储字典序较前的substring
+                        // 存入字典序较前的substring
                         if(ans.length()==te.length()&&ans.compareTo(te)>0){
                             ans=te;
                         }
