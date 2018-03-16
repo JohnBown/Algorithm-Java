@@ -46,7 +46,7 @@
         - 加法原理和乘法原理
         - 排列组合
         - 递推关系
-    （[poj3252](src/EarlyStage/Mathematics/poj3252.java)，poj1850，poj1019，poj1942）
+    （[poj3252](src/EarlyStage/Mathematics/poj3252.java)，[poj1850](src/EarlyStage/Mathematics/poj1850.java)，poj1019，poj1942）
     - 数论
         - 素数与整数问题
         - 进制位
