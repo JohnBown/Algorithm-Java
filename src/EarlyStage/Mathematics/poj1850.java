@@ -36,7 +36,8 @@ public class poj1850 {
         char last = 'a';
         for(int i=0; i<code.length; i++){   // i为code的指针，对每个位置枚举
             for(char j=last;j<code[i];j++){ // 根据升序规则，当前位置值比str小的数
-//                System.out.println("c["+('z'-j)+"]["+(code.length-i-1)+"] = "+c['z'-j][code.length-i-1]);
+                // 这段最好举例，列出n=str.len时，满足条件的所有组合，观察规律
+                // C[n][m] = Sum_{i=1}^{n-1}C[i][m-1]
                 sum += c['z'-j][code.length-i-1];
             }
             last= (char) (code[i]+1);
