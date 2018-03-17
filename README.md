@@ -27,7 +27,7 @@
     - 串（[poj1035](src/EarlyStage/DataStructure/poj1035.java)，[poj3080](src/EarlyStage/DataStructure/poj3080.java)，[poj1936](src/EarlyStage/DataStructure/poj1936.java)）
     - 排序（快排，归并排/与逆序数有关，堆排）（[poj2388](src/EarlyStage/DataStructure/poj2388.java)，[poj2299](src/EarlyStage/DataStructure/poj2299.java)）
     - 简单并查集的应用
-    - 哈希表和二分查找等高效查找法（数的Hash，串的Hash）（poj3349，poj3274，poj2151，poj1840，poj2002，poj2503）
+    - 哈希表和二分查找等高效查找法（数的Hash，串的Hash）（[poj3349](src/EarlyStage/DataStructure/poj3349.java)，poj3274，poj2151，poj1840，poj2002，poj2503）
     - 哈夫曼树（poj3253）
     - 堆
     - trie树（静态建树，动态建树）（poj2513）
