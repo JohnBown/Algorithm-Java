@@ -9,8 +9,8 @@ import java.util.Scanner;
 * 典型地用空间换时间，很魔幻
 * */
 public class poj3274 {
-    public static final int size = 100001;
-    private static int max_dis;
+    static final int size = 100001;
+    static int max_dis;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -39,7 +39,7 @@ public class poj3274 {
         System.out.println(max_dis);
     }
 
-    private static void add(int[] a, int i, HashMap<String, Integer> hm){
+    static void add(int[] a, int i, HashMap<String, Integer> hm){
         String data = null;
         StringBuilder sb = new StringBuilder();
         for (int anA : a) sb.append(anA);
