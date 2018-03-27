@@ -1,4 +1,4 @@
-package EarlyStage.BasicAlgs.Enum;
+package EarlyStage.BasicAlgs;
 
 import java.util.*;
 
