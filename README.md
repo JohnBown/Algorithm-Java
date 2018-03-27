@@ -10,8 +10,8 @@
 ## 初期（校赛及省赛水题难度）：
 
 1. 基本算法：
-    - 枚举（[poj1753](src/EarlyStage/BasicAlgs/Enum/poj1753.java)，[poj2965](src/EarlyStage/BasicAlgs/Enum/poj2965.java)）
-    - 贪心（poj1328，poj2109，poj2586）
+    - 枚举（[poj1753](src/EarlyStage/BasicAlgs/poj1753.java)，[poj2965](src/EarlyStage/BasicAlgs/poj2965.java)）
+    - 贪心（[poj1328](src/EarlyStage/BasicAlgs/poj1328.java)，poj2109，poj2586）
     - 递归和分治法
     - 递推
     - 构造法（poj3295）
