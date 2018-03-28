@@ -8,8 +8,8 @@ public class poj2586 {
         // 全年越有可能盈利，令五个月中亏损月后置，盈利月前置
         // 形如：ddddd;sdddd;ssddd;sssdd;ssssd;sssss;
         // 求最大剩余金额，用贪心思想，让每五个月都刚好亏损
-        // 每五个月s与d组合相同，比如sssdd的情况，全年盈亏有
-        // sssdd sssdd ss，每五组循环且组合相同，最后求出盈亏
+        // 比如sssdd满足刚好亏损，则全年sssdd sssdd ss满足
+        // 每五月八组都刚好亏损且组合得到的剩余金额最大
         int[][] arr = {{3,9},{6,6},{8,4},{10,2}};
         Scanner sc = new Scanner(System.in);
 
