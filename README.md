@@ -14,7 +14,7 @@
     - 贪心（[poj1328](src/EarlyStage/BasicAlgs/poj1328.java)，[poj2109](src/EarlyStage/BasicAlgs/poj2109.java)，[poj2586](src/EarlyStage/BasicAlgs/poj2586.java)）
     - 递归和分治法
     - 递推
-    - 构造法（poj3295）
+    - 构造法（[poj3295](src/EarlyStage/BasicAlgs/poj3295.java)）
     - 模拟法（poj1068，poj2632，poj1573，poj2993，poj2996）
 2. 图算法：
     - 图的深度优先遍历和广度优先遍历
