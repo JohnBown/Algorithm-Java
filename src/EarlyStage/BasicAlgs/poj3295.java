@@ -18,7 +18,7 @@ public class poj3295 {
             return k;
         }
         // 真值表，看过好多解法，都是用if打表
-        // 但这里用了递归，牛逼！
+        // 但这里用了递归，真牛逼！
         switch (c){
             case 'K':
                 return fun()&fun();
