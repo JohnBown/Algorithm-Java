@@ -12,7 +12,7 @@ public class poj3295 {
         char c = ss[sig++];
         int k;
         if('p'<=c && c<='t'){
-            // 此处位移运算用于取p~t每个真假值的返回值
+            // 此处移位用于取p~t每个真假值的返回值
             if((i&(1<<(c-'p')))!=0) k=1;
             else k=0;
             return k;
