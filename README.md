@@ -15,7 +15,7 @@
     - 递归和分治法
     - 递推
     - 构造法（[poj3295](src/EarlyStage/BasicAlgs/poj3295.java)）
-    - 模拟法（[poj1068](src/EarlyStage/BasicAlgs/poj1068.java)，[poj2632](src/EarlyStage/BasicAlgs/poj2632.java)，[poj1573](src/EarlyStage/BasicAlgs/poj1573.java)，poj2993，poj2996）
+    - 模拟法（[poj1068](src/EarlyStage/BasicAlgs/poj1068.java)，[poj2632](src/EarlyStage/BasicAlgs/poj2632.java)，[poj1573](src/EarlyStage/BasicAlgs/poj1573.java)，[poj2993](src/EarlyStage/BasicAlgs/poj2993.java)，poj2996）
 2. 图算法：
     - 图的深度优先遍历和广度优先遍历
     - 最短路径（dijkstra，bellman-ford，floyd，heap+dijkstra）（poj1860，poj3259，poj1062，poj2253，poj1125，poj2240）
