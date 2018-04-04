@@ -80,7 +80,8 @@ public class poj2996 {
                 if(key.equals("k")||key.equals("K")){
                     System.out.print(Character.toUpperCase(key.charAt(0))+s[1]);
                 } else {
-                    System.out.print(","+Character.toUpperCase(key.charAt(0))+s[1]);
+                    System.out.print(","+
+                            Character.toUpperCase(key.charAt(0))+s[1]);
                 }
             }
         }else {
@@ -100,7 +101,8 @@ public class poj2996 {
                     }
                 }else {
                     for (String[] aTemp : temp) {
-                        System.out.print("," + Character.toUpperCase(key.charAt(0)) + aTemp[1]);
+                        System.out.print("," +
+                                Character.toUpperCase(key.charAt(0)) + aTemp[1]);
                     }
                 }
             }
