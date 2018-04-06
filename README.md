@@ -51,7 +51,7 @@
         - 素数与整数问题
         - 进制位
         - 同余模运算
-    （[poj2635](src/EarlyStage/Mathematics/poj2635.java)，[poj3292](src/EarlyStage/Mathematics/poj3292.java)，[poj1845](src/EarlyStage/Mathematics/poj1845.java)，poj2115）
+    （[poj2635](src/EarlyStage/Mathematics/poj2635.java)，[poj3292](src/EarlyStage/Mathematics/poj3292.java)，[poj1845](src/EarlyStage/Mathematics/poj1845.java)，[poj2115](src/EarlyStage/Mathematics/poj2115.java)）
     - 计算方法
         - 二分法求解单调函数相关知识（poj3273，poj3258，poj1905，poj3122）
 7. 计算几何：
