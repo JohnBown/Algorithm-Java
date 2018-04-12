@@ -38,7 +38,7 @@
 5. [动态规划](src/EarlyStage/DynamicProgramming/README.md)：
     - 背包问题（[poj1837](src/EarlyStage/DynamicProgramming/poj1837.java)，[poj1276](src/EarlyStage/DynamicProgramming/poj1276.java)）
     - 型如下表的简单DP（可参考lrj的书page149）：
-      （poj3267，poj1836，poj1260，poj2533）
+      （poj3267，[poj1836](src/EarlyStage/DynamicProgramming/poj1836.java)，poj1260，poj2533）
       （poj3176，poj1080，poj1159）
       （最优二分检索树问题）
 6. 数学：
