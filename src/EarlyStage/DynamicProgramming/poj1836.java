@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class poj1836 {
     //TODO TLE
+    //其实可以优化：在查找最长上升/下降子序列时
+    //可以将最值存储下来，就不需要最后的遍历了
     static final int MAX = 10005;
     static final int INF = (int)0x3fffffff;
     static int[] l = new int[MAX];
