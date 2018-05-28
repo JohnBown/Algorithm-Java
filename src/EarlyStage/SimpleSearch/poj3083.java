@@ -82,9 +82,9 @@ public class poj3083 {
 
     }
 
-    private static int BFS(Node s) {
-        return 0;
-    }
+//    private static int BFS(Node s) {
+//        return 0;
+//    }
 
     private static void DFS(int x, int y, int tx, int ty, int d) {
 
