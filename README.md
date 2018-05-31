@@ -32,7 +32,7 @@
     - 堆
     - trie树（静态建树，动态建树）（poj2513）
 4. 简单搜索：
-    - 深度优先搜索（[poj2488](src/EarlyStage/SimpleSearch/poj2488.java)，[poj3083](src/EarlyStage/SimpleSearch/poj3083.java)，poj3009，poj1321，poj2251）
+    - 深度优先搜索（[poj2488](src/EarlyStage/SimpleSearch/poj2488.java)，[poj3083](src/EarlyStage/SimpleSearch/poj3083.java)，[poj3009](src/EarlyStage/SimpleSearch/poj3009.java)，poj1321，poj2251）
     - 广度优先搜索（poj3278，poj1426，poj3126，poj3087，poj3414）
     - 简单搜索技巧和减枝（poj2531，poj1416，poj2676，poj1129）
 5. [动态规划](src/EarlyStage/DynamicProgramming/README.md)：
