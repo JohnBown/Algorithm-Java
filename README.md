@@ -1,6 +1,5 @@
 # Algorithm-Java
 
-
 > **Algorithms** + **Data Structures** = Programs. ——Niklaus Wirth
 
 没日没夜地写程序。看到这几个字我两眼一黑，仿佛这就是我未来的生活。
