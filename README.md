@@ -33,7 +33,7 @@
     - trie树（静态建树，动态建树）（poj2513）
 4. 简单搜索：
     - 深度优先搜索（[poj2488](src/EarlyStage/SimpleSearch/poj2488.java)，[poj3083](src/EarlyStage/SimpleSearch/poj3083.java)，[poj3009](src/EarlyStage/SimpleSearch/poj3009.java)，[poj1321](src/EarlyStage/SimpleSearch/poj1321.java)，[poj2251](src/EarlyStage/SimpleSearch/poj2251.java)）
-    - 广度优先搜索（[poj3278](src/EarlyStage/SimpleSearch/poj3278.java)，poj1426，poj3126，poj3087，poj3414）
+    - 广度优先搜索（[poj3278](src/EarlyStage/SimpleSearch/poj3278.java)，[poj1426](src/EarlyStage/SimpleSearch/poj1426.java)，poj3126，poj3087，poj3414）
     - 简单搜索技巧和减枝（poj2531，poj1416，poj2676，poj1129）
 5. [动态规划](src/EarlyStage/DynamicProgramming/README.md)：
     - 背包问题（[poj1837](src/EarlyStage/DynamicProgramming/poj1837.java)，[poj1276](src/EarlyStage/DynamicProgramming/poj1276.java)）
