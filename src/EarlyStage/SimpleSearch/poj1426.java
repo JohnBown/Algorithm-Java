@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class poj1426 {
 
-    //题目看了好几便，答案输出不唯一，直接暴力枚举
+    //题目看了好几遍，答案输出不唯一，直接暴力枚举
     //其实bfs不剪枝的情况下等同于暴力
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
