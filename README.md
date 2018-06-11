@@ -34,7 +34,7 @@
 4. 简单搜索：
     - 深度优先搜索（[poj2488](src/EarlyStage/SimpleSearch/poj2488.java)，[poj3083](src/EarlyStage/SimpleSearch/poj3083.java)，[poj3009](src/EarlyStage/SimpleSearch/poj3009.java)，[poj1321](src/EarlyStage/SimpleSearch/poj1321.java)，[poj2251](src/EarlyStage/SimpleSearch/poj2251.java)）
     - 广度优先搜索（[poj3278](src/EarlyStage/SimpleSearch/poj3278.java)，[poj1426](src/EarlyStage/SimpleSearch/poj1426.java)，[poj3126](src/EarlyStage/SimpleSearch/poj3126.java)，[poj3087](src/EarlyStage/SimpleSearch/poj3087.java)，[poj3414](src/EarlyStage/SimpleSearch/poj3414.java)）
-    - 简单搜索技巧和减枝（[poj2531](src/EarlyStage/SimpleSearch/poj2531.java)，poj1416，poj2676，poj1129）
+    - 简单搜索技巧和减枝（[poj2531](src/EarlyStage/SimpleSearch/poj2531.java)，[poj1416](src/EarlyStage/SimpleSearch/poj1416.java)，poj2676，poj1129）
 5. [动态规划](src/EarlyStage/DynamicProgramming/README.md)：
     - 背包问题（[poj1837](src/EarlyStage/DynamicProgramming/poj1837.java)，[poj1276](src/EarlyStage/DynamicProgramming/poj1276.java)）
     - 型如下表的简单DP（可参考lrj的书page149）：
