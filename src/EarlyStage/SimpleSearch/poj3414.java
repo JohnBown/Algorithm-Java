@@ -2,17 +2,17 @@ package EarlyStage.SimpleSearch;
 
 import java.util.*;
 
-class State {
-    int a;
-    int b;
-    String str;
-    State(int a, int b){
-        this.a = a;
-        this.b = b;
-    }
-}
-
 public class poj3414 {
+
+    static class State {
+        int a;
+        int b;
+        String str;
+        State(int a, int b){
+            this.a = a;
+            this.b = b;
+        }
+    }
 
     static int A,B,C;
     static Queue<State> queue = new LinkedList<State>();
