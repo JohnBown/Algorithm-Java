@@ -18,7 +18,7 @@
     - 模拟法（[poj1068](src/EarlyStage/BasicAlgs/poj1068.java)，[poj2632](src/EarlyStage/BasicAlgs/poj2632.java)，[poj1573](src/EarlyStage/BasicAlgs/poj1573.java)，[poj2993](src/EarlyStage/BasicAlgs/poj2993.java)，[poj2996](src/EarlyStage/BasicAlgs/poj2996.java)）
 2. 图算法：
     - 图的深度优先遍历和广度优先遍历
-    - 最短路径（dijkstra，bellman-ford，floyd，heap+dijkstra）（[poj1860](src/EarlyStage/GraphAlgs/poj1860.java)，poj3259，poj1062，poj2253，poj1125，poj2240）
+    - 最短路径（dijkstra，bellman-ford，floyd，heap+dijkstra）（[poj1860](src/EarlyStage/GraphAlgs/poj1860.java)，[poj3259](src/EarlyStage/GraphAlgs/poj3259.java)，poj1062，poj2253，poj1125，poj2240）
     - 最小生成树（prim，kruskal）（poj1789，poj2485，poj1258，poj3026）
     - 拓扑排序（poj1094）
     - 二分图的最大匹配（匈牙利算法）（poj3041，poj3020）
